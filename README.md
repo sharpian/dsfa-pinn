@@ -5,6 +5,17 @@ Solving parametric partial differential equations using artificial intelligence 
 Partial differential equation approximation, physics informed neural network, computational fluid dynamics, neural operators, functional spaces, spectral feature learning.
 
 ## CITATION 
+@ARTICLE{Rafiq2022a,  
+  author={Rafiq, Muhammad and Rafiq, Ghazala and Jung, Ho-Youl and Choi, Gyu Sang},  
+  journal={IEEE Access},   
+  title={SSNO: Spatio-Spectral Neural Operator for Functional Space Learning of Partial Differential Equations},   
+  year={2022},  
+  volume={10},  
+  number={},  
+  pages={15084-15095},  
+  doi={10.1109/ACCESS.2022.3148401}
+  }
+  
 @ARTICLE{Rafiq2022b,
   author={Rafiq, Muhammad and Rafiq, Ghazala and Choi, Gyu Sang},
   journal={IEEE Access}, 
@@ -14,3 +25,5 @@ Partial differential equation approximation, physics informed neural network, co
   number={},
   pages={1-1},
   doi={10.1109/ACCESS.2022.3153056}}
+
+https://ieeexplore.ieee.org/document/9718091
